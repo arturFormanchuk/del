@@ -1,0 +1,19 @@
+.margin-bot-25{
+    margin-bottom: 30px;
+}
+.card{
+    width: 90%;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    margin: 100px auto;
+
+}
+.paddingBtn{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.d-flex{
+    display: flex;
+    flex-direction: column;
+}
